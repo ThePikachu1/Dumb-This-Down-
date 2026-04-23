@@ -1,0 +1,6 @@
+{
+  "name": "dumb-this-down-lambda",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Lambda backend for Dumb This Down Chrome extension"
+}
